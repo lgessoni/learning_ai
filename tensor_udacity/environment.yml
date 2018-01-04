@@ -1,0 +1,10 @@
+name: learning_ai_env
+dependencies:
+- python=3
+- numpy
+- imageio
+- matplotlib
+- ipython
+- scikit-learn
+- six
+- jupyter
