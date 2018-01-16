@@ -1,6 +1,6 @@
 name: learning_ai_env
 dependencies:
-- python=3
+- python=3.5
 - numpy
 - imageio
 - matplotlib
@@ -8,3 +8,5 @@ dependencies:
 - scikit-learn
 - six
 - jupyter
+- pip:
+  - tensorflow-gpu 
